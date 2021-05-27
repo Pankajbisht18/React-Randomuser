@@ -1,0 +1,20 @@
+body{
+  background-color: #B8FFF0;
+}
+div{
+  background-color: #DEDEDE;
+}
+.userImg{
+  border-radius: 50%;
+  border: 5px solid #bcbcbc;
+}
+p{
+  font-weight: 500;
+  font-size: 20px;
+  text-align: justify;
+}
+.refresh{
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
